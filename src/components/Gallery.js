@@ -54,6 +54,7 @@ function Gallery() {
           alt={`gallery-img-${index}`} 
           className="gallery-img" 
           onClick={() => handleImageClick(index)} 
+          loading="lazy"
         />
       ))}
 
