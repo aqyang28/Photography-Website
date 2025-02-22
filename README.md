@@ -1,70 +1,26 @@
-# Getting Started with Create React App
+# Photography Portfolio Website
+>Developed by [Alex Yang](https://github.com/aqyang28).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
 
-## Available Scripts
+This project is a photo gallery website displaying some of my favorite shots with the purpose of sharing my work to anyone who is interested. This project marks my first time working with web development languages– I have already learned a lot and am excited to learn a lot more. I have set three primary goals to work towards in the next stages of development:
 
-In the project directory, you can run:
+1. **Accessibility features:** include alt text for all images to make them accessible to screen readers.
+2. **Dynamic sizing:** ensure the design is responsive across multiple devices and screen sizes by replacing hardcoded px values with rem or em units.
+3. **User interface updates:** improve the UI to enhance user experience and improve performance.
 
-### `npm start`
+Future goals include: Google Calendar API implementation to make a calendar displaying my availability for sessions, a database that allows users to send booking requests online, and even more pictures. This README file will be updated as I progress through this creation, thanks for joining me on this journey!
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Technical Tools
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
+![React](https://img.shields.io/badge/React-05122A?logo=react&logoColor=%2361DAFB)
+![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git&color=%2305122A)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+###### This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
