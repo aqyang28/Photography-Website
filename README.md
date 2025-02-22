@@ -1,4 +1,4 @@
-# Photography Portfolio Website
+# Photography Gallery Website
 >Developed by [Alex Yang](https://github.com/aqyang28).
 
 ## Overview
