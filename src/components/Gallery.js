@@ -35,7 +35,6 @@ function Gallery() {
     '/images/softballpitch.jpg',
     '/images/softballrun.jpg',
     '/images/softballhype.jpg',
-
   ];
 
   const [selectedImageIndex, setSelectedImageIndex] = useState(null);

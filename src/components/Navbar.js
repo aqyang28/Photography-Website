@@ -13,7 +13,7 @@ function Navbar() {
         <ul className="navbar-links">
           <li><Link to="/">Portfolio</Link></li>
           <li><Link to="/about">About</Link></li>
-          <li><Link to="/contact">Contact</Link></li>
+          {/* <li><Link to="/contact">Contact</Link></li> */}
         </ul>
       </div>
       <div className="navbar-icons">
