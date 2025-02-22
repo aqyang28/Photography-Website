@@ -3,13 +3,19 @@
 
 ## Overview
 
-This project is a photo gallery website displaying some of my favorite shots with the purpose of sharing my work to anyone who is interested. This project marks my first time working with web development languages– I have already learned a lot and am excited to learn a lot more. I have set three primary goals to work towards in the next stages of development:
+This project is a photo gallery website displaying some of my favorite shots to share my work with anyone interested. I am using my Google Sites photo website as a template for the design. This project marks my first time using web application frameworks and languages. I have learned a lot about the basic structure of CSS and JavaScript. I have also developed more proficiency in using Git to manage my project locally and on GitHub. I have set three primary goals to work towards in the next stages of development:
 
-1. **Accessibility features:** include alt text for all images to make them accessible to screen readers.
-2. **Dynamic sizing:** ensure the design is responsive across multiple devices and screen sizes by replacing hardcoded px values with rem or em units.
-3. **User interface updates:** improve the UI to enhance user experience and improve performance.
+### Next Steps:
+- **Accessibility features:** Include alt text for all images to make them accessible to screen readers.
+- **Dynamic sizing:** Ensure the design is responsive across multiple devices and screen sizes by replacing hardcoded `px` values with `rem` or `em` units.
+- **User interface updates:** Improve the UI to enhance user experience and boost performance by fixing spacing between elements on the About page and scaling images to fit or dynamically sizing them to .
 
-Future goals include: Google Calendar API implementation to make a calendar displaying my availability for sessions, a database that allows users to send booking requests online, and even more pictures. This README file will be updated as I progress through this creation, thanks for joining me on this journey!
+### Future Goals:
+- Integrating the Google Calendar API to display my availability for photo sessions.
+- Implementing a structured database to handle user booking requests.
+- Adding more images to the gallery.
+
+This README file will be updated as I progress through this creation. Thanks for joining me on this journey!
 
 ## Technical Tools
 
